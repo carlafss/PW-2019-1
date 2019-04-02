@@ -3,7 +3,7 @@
 
 Laboratório da disciplina de Programação Web INF UFG 2019/1.
 
-* [exemplo 01](exemplo 01/README.md) - Primeira aplicação web.
+* [exemplo 01](exemplo01/README.md) - Primeira aplicação web.
 
 ## Links
 
